@@ -3,7 +3,7 @@
 The flanker task is a psychometric test used to mesure cognitive inhibition functions.
 This is a really basic one.
 
-:danger: Only supported by Windows
+Only supported by Windows
 Run it with flankerTask.love
 
 After typing "space", the patient has to type either left or right arrow the fastest he can according to the direction of the central arrow. 
