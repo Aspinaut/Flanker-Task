@@ -1,0 +1,219 @@
+
+New Session
+2 right 1.8707506770006 Right 
+3 left 0.93744091799999 Wrong 
+4 left 0.74899974300024 Wrong 
+5 left 0.6316872239986 Wrong 
+7 right 0.35121162199903 Right 
+8 right 0.33539657000074 Wrong 
+9 left 0.35260267200101 Wrong 
+11 left 1.6694282319986 Right 
+12 right 0.52012219700009 Right 
+13 left 1.8702289379999 Wrong 
+15 right 0.53505710799982 Right 
+16 left 0.36790082399966 Wrong 
+17 left 1.3164690419999 Right 
+18 right 0.48350088100051 Wrong 
+19 left 0.52073749100055 Wrong 
+20 right 0.51811211600034 Wrong 
+55 right 0.81768367400036 Right 
+56 left 1.2833387129995 Right 
+57 right 1.3836524789986 Wrong 
+New Session
+New Session
+1 right 2810.245354766 Right 
+New Session
+2 left 0.50145703900034 Right 
+New Session
+1 right 0.53350764199968 Right 
+2 left 0.61872636499993 Wrong 
+3 left 0.70183380000026 Wrong 
+4 right 0.48357445800002 Right 
+New Session
+1 right 0.41678892699974 Right 
+2 left 0.36810095999999 Wrong 
+New Session
+2 left 0.50051796699972 Wrong 
+4 right 0.48450044499987 Wrong 
+5 left 0.46844158500016 Right 
+New Session
+1 right 3479.146255213 Wrong 
+1 right 0.38392885699977 Wrong 
+2 left 0.69994070899975 Right 
+2 right 0.13323923999997 Wrong 
+3 left 0.24979094100036 Right 
+3 right 0.13370535400009 Wrong 
+4 left 0.23341158999983 Right 
+4 right 0.13274497299972 Wrong 
+New Session
+1 right 3488.162218068 Right 
+1 left 0.16770396100037 Wrong 
+2 left 0.45058583700029 Right 
+2 right 0.28298908700026 Wrong 
+3 left 0.64972274200045 Wrong 
+New Session
+2 right 0.48347691599974 Right 
+3 right 0.35049595999999 Wrong 
+4 left 0.5167931029996 Right 
+4 left 0.38349148600037 Right 
+5 right 0.83341720399994 Wrong 
+5 left 0.41748656500022 Right 
+6 right 0.83345705800002 Wrong 
+6 right 0.35035495600005 Wrong 
+7 left 0.9342941660002 Wrong 
+New Session
+New Session
+New Session
+1 left 0.3837397010002 Right 
+New Session
+1 left 0.36800844700065 Wrong 
+2 right 0.36962840500019 Right 
+3 right 0.65121663299942 Right 
+New Session
+1 right 0.61928270899989 Right 
+3 left 0.48417407299985 Wrong 
+9 right 0.5348814379995 Wrong 
+New Session
+1 left 0.36766801700014 Wrong 
+2 right 0.53513643699989 Wrong 
+3 right 0.43462169400027 Right 
+New Session
+2 right 0.36862754799949 Right 
+3 right 0.90143239100053 Right 
+New Session
+1 left 0.68770901799962 Right 
+2 right 1.3029277139995 Wrong 
+7 left 0.56977658699998 Wrong 
+8 right 0.36980461500025 Wrong 
+9 right 0.45184654100012 Right 
+10 right 0.84965337500034 Right 
+New Session
+New Session
+New Session
+New Session
+1 right 0.65226483900187 Right 
+New Session
+New Session
+2 left 0.50120617799985 Right 
+New Session
+1 left 1.4185626149992 Right 
+New Session
+1 right 0.58377996100171 Right 
+New Session
+New Session
+7 right 1.0844974930005 Right 
+New Session
+1 left 0.58428732300308 Right 
+6 right 1.1011888689973 Right 
+7 right 0.46868966099646 Right 
+8 left 0.28422137799862 Right 
+9 right 0.501577705003 Wrong 
+10 left 0.40114755099785 Right 
+New Session
+3 left 0.46783779300313 Right 
+New Session
+New Session
+New Session
+New Session
+New Session
+2 left 0.58441296800083 Right 
+New Session
+1 right 0.51765709299798 Right 
+2 left 0.43443717799892 Right 
+New Session
+2 right 0.55099334700208 Right 
+3 left 0.5513120450014 Right 
+4 right 0.41762708999886 Right 
+5 right 0.50084527099898 Right 
+6 right 0.48468457999843 Right 
+7 left 0.4675315789973 Right 
+8 left 0.45087487799901 Right 
+9 left 0.50088891300038 Right 
+10 right 0.45091397099895 Right 
+11 right 0.40107511500173 Right 
+12 left 0.40222716599965 Wrong 
+New Session
+New Session
+New Session
+New Session
+New Session
+New Session
+New Session
+New Session
+New Session
+New Session
+New Session
+New Session
+1 right 1.2172897 Right 
+3 left 0.44996569999967 Wrong 
+4 left 0.40008719999969 Wrong 
+5 left 0.30019840000023 Wrong 
+6 left 0.40084980000029 Wrong 
+7 right 0.28394929999922 Wrong 
+8 left 0.5502106999993 Right 
+9 left 1.517929399999 Right 
+10 left 1.0844065000001 Right 
+11 right 0.73410320000039 Wrong 
+12 left 0.63390530000106 Right 
+13 right 0.65055179999945 Wrong 
+14 right 1.0004246999997 Right 
+15 left 1.1673306999983 Wrong 
+16 left 0.68426170000021 Right 
+17 left 0.43364179999844 Right 
+18 right 0.45050049999918 Right 
+19 left 0.40010260000054 Right 
+20 left 0.41697550000026 Right 
+21 right 0.33285060000162 Right 
+22 right 0.4495134000008 Right 
+23 left 0.61743589999969 Right 
+24 right 0.36696839999968 Right 
+25 left 0.41779150000002 Right 
+26 right 0.39979579999999 Right 
+27 right 0.60086570000021 Right 
+28 left 0.41688290000093 Right 
+29 left 0.43350779999855 Right 
+30 left 0.5176862999997 Right 
+31 left 0.36707920000117 Right 
+32 left 0.43384049999986 Right 
+33 right 0.3499580000007 Wrong 
+34 left 0.46721980000075 Right 
+35 right 0.45120970000062 Right 
+36 left 0.31654209999942 Right 
+37 left 0.35068780000074 Right 
+38 right 0.4339428000003 Right 
+39 right 0.43415969999842 Right 
+40 right 0.40114150000045 Right 
+41 right 0.43460290000075 Right 
+42 right 0.41657599999962 Right 
+43 right 0.48377280000022 Right 
+44 right 0.46599270000115 Right 
+45 left 0.48444559999916 Right 
+46 right 0.50106510000114 Right 
+47 right 0.46656620000067 Right 
+48 left 0.51693399999931 Right 
+49 left 0.41682180000134 Right 
+50 left 0.48425049999969 Right 
+51 right 0.46736729999975 Right 
+52 left 0.38437979999981 Right 
+53 right 0.4671359999993 Right 
+54 right 0.41661460000068 Right 
+55 left 0.41637290000108 Right 
+56 left 0.41644099999939 Right 
+57 right 0.4009146999997 Right 
+58 right 0.43423500000063 Right 
+59 right 0.45025030000033 Right 
+60 left 0.43409810000048 Right 
+61 right 0.40008510000007 Right 
+62 right 0.45090019999952 Right 
+63 right 0.38289179999992 Right 
+64 right 0.43364789999941 Right 
+65 right 0.41715060000024 Right 
+66 right 0.3838999999989 Right 
+67 left 0.51678870000069 Right 
+68 right 0.55027410000002 Wrong 
+New Session
+1 left 0.31702930000029 Right 
+2 left 0.099613000000318 Right 
+3 left 0.099844200000007 Wrong 
+4 left 0.050572899999679 Wrong 
+5 left 0.050937500000146 Right 
